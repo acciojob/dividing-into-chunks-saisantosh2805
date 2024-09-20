@@ -20,7 +20,7 @@ if (currentsum+num>n){
 	{
 		result.push(currentSubArray);
 	}
-return.result;
+return result;
 }
 
 const n = prompt("Enter n: ");
